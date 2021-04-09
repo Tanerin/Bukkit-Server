@@ -1,68 +1,80 @@
-[11:13:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:13:56] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[11:13:57] [Worker-Main-12/INFO]: Loaded 7 recipes
-[11:13:58] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[11:13:58] [Server thread/INFO]: Loading properties
-[11:13:58] [Server thread/INFO]: Default game type: SURVIVAL
-[11:13:58] [Server thread/INFO]: Generating keypair
-[11:13:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:13:59] [Server thread/INFO]: Using default channel type
-[11:14:00] [Server thread/INFO]: This server is running CraftBukkit version 2991-Bukkit-f3f3094 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[11:14:02] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
-[11:14:02] [Server thread/INFO]: [SLEEP] Loading Sleep v1.0.6
-[11:14:02] [Server thread/INFO]: Preparing level "world"
-[11:14:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:14:03] [Server thread/INFO]: Preparing spawn area: 0%
-[11:14:03] [Server thread/INFO]: Preparing spawn area: 0%
-[11:14:03] [Server thread/INFO]: Preparing spawn area: 0%
-[11:14:04] [Server thread/INFO]: Preparing spawn area: 47%
-[11:14:06] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[11:14:06] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[11:14:06] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[11:14:06] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[11:14:06] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[11:14:07] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[11:14:07] [Worker-Main-10/INFO]: Preparing spawn area: 83%
-[11:14:08] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[11:14:08] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[11:14:09] [Worker-Main-10/INFO]: Preparing spawn area: 83%
-[11:14:09] [Worker-Main-14/INFO]: Preparing spawn area: 85%
-[11:14:10] [Worker-Main-14/INFO]: Preparing spawn area: 88%
-[11:14:10] [Server thread/INFO]: Time elapsed: 7817 ms
-[11:14:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[11:14:11] [Server thread/INFO]: Preparing spawn area: 0%
-[11:14:11] [Server thread/INFO]: Preparing spawn area: 0%
-[11:14:11] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[11:14:11] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[11:14:12] [Worker-Main-13/INFO]: Preparing spawn area: 83%
-[11:14:12] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[11:14:13] [Worker-Main-8/INFO]: Preparing spawn area: 85%
-[11:14:13] [Worker-Main-9/INFO]: Preparing spawn area: 85%
-[11:14:14] [Server thread/INFO]: Time elapsed: 3753 ms
-[11:14:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[11:14:14] [Server thread/INFO]: Preparing spawn area: 0%
-[11:14:14] [Worker-Main-15/INFO]: Preparing spawn area: 90%
-[11:14:14] [Server thread/INFO]: Time elapsed: 586 ms
-[11:14:14] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
-[11:14:14] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[11:14:14] [Server thread/INFO]: Creating config from template: Y:\Desk\ServerMinecraft-1.16.5\plugins\Essentials\config.yml
-[11:14:14] [Server thread/INFO]: Creating config from template: Y:\Desk\ServerMinecraft-1.16.5\plugins\Essentials\kits.yml
-[11:14:14] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
-[11:14:14] [Server thread/INFO]: No kits found to migrate.
-[11:14:14] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
-[11:14:14] [Server thread/INFO]: [Essentials] Starting usermap repair
-[11:14:14] [pool-4-thread-1/INFO]: Creating empty config: Y:\Desk\ServerMinecraft-1.16.5\plugins\Essentials\upgrades-done.yml
-[11:14:14] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
-[11:14:14] [Server thread/INFO]: Attempting to migrate ignore list to UUIDs
-[11:14:14] [Server thread/INFO]: Creating config from template: Y:\Desk\ServerMinecraft-1.16.5\plugins\Essentials\worth.yml
-[11:14:14] [Server thread/INFO]: Creating config from template: Y:\Desk\ServerMinecraft-1.16.5\plugins\Essentials\tpr.yml
-[11:14:15] [Server thread/INFO]: Loaded 25599 items from items.json.
-[11:14:15] [Server thread/INFO]: Creating config from template: Y:\Desk\ServerMinecraft-1.16.5\plugins\Essentials\custom_items.yml
-[11:14:15] [Server thread/INFO]: Using locale es_ES
-[11:14:15] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[11:14:15] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[11:14:15] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[11:14:15] [Server thread/INFO]: [SLEEP] Enabling Sleep v1.0.6
-[11:14:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[11:14:15] [Server thread/INFO]: Done (13.105s)! For help, type "help"
-[11:16:11] [Thread-2/INFO]: Stopping server
+[12:59:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:59:57] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[12:59:59] [Worker-Main-4/INFO]: Loaded 7 recipes
+[13:00:01] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[13:00:01] [Server thread/INFO]: Loading properties
+[13:00:01] [Server thread/INFO]: Default game type: SURVIVAL
+[13:00:01] [Server thread/INFO]: Generating keypair
+[13:00:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:00:02] [Server thread/INFO]: Using epoll channel type
+[13:00:03] [Server thread/INFO]: This server is running CraftBukkit version 2991-Bukkit-f3f3094 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[13:00:05] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[13:00:05] [Server thread/INFO]: [SLEEP] Loading Sleep v1.0.6
+[13:00:05] [Server thread/INFO]: Preparing level "world"
+[13:00:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:00:08] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:08] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:08] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:08] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:08] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:08] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:09] [Server thread/INFO]: Preparing spawn area: 1%
+[13:00:14] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:00:14] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[13:00:14] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:00:14] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:00:14] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:00:14] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:00:14] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[13:00:14] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[13:00:14] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[13:00:14] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[13:00:14] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:00:15] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[13:00:15] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:00:16] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[13:00:16] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[13:00:17] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[13:00:17] [Worker-Main-8/INFO]: Preparing spawn area: 84%
+[13:00:18] [Worker-Main-6/INFO]: Preparing spawn area: 88%
+[13:00:18] [Worker-Main-6/INFO]: Preparing spawn area: 89%
+[13:00:19] [Worker-Main-7/INFO]: Preparing spawn area: 92%
+[13:00:19] [Server thread/INFO]: Preparing spawn area: 97%
+[13:00:19] [Server thread/INFO]: Time elapsed: 13692 ms
+[13:00:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:00:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:21] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[13:00:21] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[13:00:22] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[13:00:22] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[13:00:23] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:00:23] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[13:00:24] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:00:24] [Worker-Main-7/INFO]: Preparing spawn area: 86%
+[13:00:25] [Worker-Main-7/INFO]: Preparing spawn area: 89%
+[13:00:25] [Worker-Main-6/INFO]: Preparing spawn area: 96%
+[13:00:26] [Server thread/INFO]: Time elapsed: 6275 ms
+[13:00:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:00:26] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:26] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:00:27] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[13:00:27] [Server thread/INFO]: Time elapsed: 1340 ms
+[13:00:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[13:00:27] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[13:00:28] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[13:00:28] [Server thread/INFO]: No kits found to migrate.
+[13:00:28] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[13:00:28] [Server thread/INFO]: [Essentials] Starting usermap repair
+[13:00:28] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[13:00:28] [Server thread/INFO]: Attempting to migrate ignore list to UUIDs
+[13:00:28] [Server thread/INFO]: Loaded 25599 items from items.json.
+[13:00:28] [Server thread/INFO]: Using locale en
+[13:00:28] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:00:28] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:00:28] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[13:00:28] [Server thread/INFO]: [SLEEP] Enabling Sleep v1.0.6
+[13:00:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:00:29] [Server thread/INFO]: Done (23.360s)! For help, type "help"
+[13:01:09] [Thread-3/INFO]: Stopping server
